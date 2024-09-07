@@ -1,0 +1,36 @@
+venv/
+.venv/
+
+
+
+# # Byte-compiled / optimized / DLL files
+# __pycache__/
+# *.pyc
+# *.pyo
+# *.pyd
+# *.dll
+
+# # Distribution / packaging
+# .egg-info/
+# .dist-info/
+# build/
+# dist/
+
+# # Local configuration
+# *.egg
+# *.pth
+# .env
+# .venv/
+# env/
+
+# # Unit test/coverage reports
+# .coverage
+# coverage*
+# htmlcov/
+
+# # History
+# .git/
+# .hg/
+
+# # IPython notebook
+# .ipynb_checkpoints
