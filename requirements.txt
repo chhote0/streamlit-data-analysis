@@ -1,4 +1,4 @@
 langchain
 streamlit
-langchain-google-genai
+langchain_ollama
 chromadb
